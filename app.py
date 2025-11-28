@@ -65,3 +65,5 @@ if st.button("🔍 Predict"):
 # Footer
 st.write("---")
 st.write("— Phishing Detection ML Model")
+
+#to run this python -m streamlit run app.py in Terminal.
