@@ -2,7 +2,7 @@
 
 This project focuses on detecting phishing websites using machine learning techniques based on URL-based and webpage-based feature analysis. The aim is to build a classification model that helps identify malicious websites and enhance cybersecurity awareness.
 
-📌 Project Overview
+# Project Overview
 
 Phishing attacks are one of the most common cybercrimes where attackers trick users into revealing sensitive information.
 This project uses a dataset of website characteristics to classify websites into:
@@ -13,7 +13,7 @@ This project uses a dataset of website characteristics to classify websites into
 
 The model analyzes 30+ features extracted from website URLs and HTML content to detect phishing patterns.
 
-📊 Dataset Features
+ # Dataset Features
 Some key features used in this project:
 having_IP_Address
 URL_Length
@@ -28,7 +28,7 @@ Google_Index
 Result (Target Column)
 Most features are numeric and represent website behavior patterns.
 
-🛠️ Technologies Used
+# Technologies Used
 Python
 Pandas
 NumPy
@@ -43,7 +43,7 @@ Jupyter Notebook
 
 Streamlit (for deployment)
 
-📈 Model Building Steps
+# Model Building Steps
 
 Data loading and preprocessing
 Exploratory Data Analysis (EDA)
@@ -54,14 +54,14 @@ Evaluating accuracy, confusion matrix, and classification report
 Selecting the best-performing model
 Deploying using Streamlit
 
-🚀 Model Deployment (Streamlit)
+# Model Deployment (Streamlit)
 
 The project includes a Streamlit web app where users can manually enter website parameters or connect it with feature extraction logic.
 
 To run the app:
 streamlit run app.py
 
-✔️ Results
+# Results
 The model performs well on the dataset and accurately classifies phishing vs. legitimate websites.
 Metrics evaluated:
 
@@ -71,7 +71,7 @@ Recall
 F1-score
 Confusion Matrix
 
-🧪 How to Run the Project
+# How to Run the Project
 
 Clone the repository:
 git clone <repo-link>
