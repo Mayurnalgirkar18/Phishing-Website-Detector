@@ -1,4 +1,4 @@
-🕵️‍♂️ Phishing Website Detection using Machine Learning
+# 🕵️‍♂️ Phishing Website Detection (Supervised Learning)
 
 This project focuses on detecting phishing websites using machine learning techniques based on URL-based and webpage-based feature analysis. The aim is to build a classification model that helps identify malicious websites and enhance cybersecurity awareness.
 
